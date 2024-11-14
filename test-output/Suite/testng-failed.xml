@@ -11,6 +11,7 @@
         <methods>
           <include name="logintest"/>
           <include name="setup"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- makemytrip.TestCases.TC_001_Login -->
     </classes>
