@@ -8,6 +8,7 @@ public class TC_001_Login extends BaseClass {
 	public void logintest() {
 		
 		System.out.println("ram");
+		System.out.println("mohalkar");
 		
 	}
 
